@@ -1,3 +1,6 @@
 		Main text file for demo
 		ready to mergin
 		merging starts here
+
+text adding to branch1
+ending of branch1
