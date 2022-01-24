@@ -2,5 +2,10 @@
 		ready to mergin
 		merging starts here
 
+
 text adding to branch1
 ending of branch1
+starting of branch2
+the text came from branch2
+end of branch 2
+
